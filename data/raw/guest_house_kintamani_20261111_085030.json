@@ -1,0 +1,108 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.11 87bfad18",
+    "osm3s": {
+        "timestamp_osm_base": "2026-11-11T08:49:07Z",
+        "timestamp_areas_base": "2026-11-11T06:51:08Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "node",
+            "id": 2107226701,
+            "lat": -8.2498154,
+            "lon": 115.3984646,
+            "tags": {
+                "name": "Arlina",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 4863479822,
+            "lat": -8.2463133,
+            "lon": 115.3274021,
+            "tags": {
+                "name": "Miranda Homestay & Restaurant",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 5181842726,
+            "lat": -8.2495661,
+            "lon": 115.3938369,
+            "tags": {
+                "internet_access": "yes",
+                "name": "Batur Volcano Guesthouse",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 6538756786,
+            "lat": -8.2527796,
+            "lon": 115.3966072,
+            "tags": {
+                "internet_access": "wlan",
+                "name": "Triangle House",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7205318685,
+            "lat": -8.2214097,
+            "lon": 115.4129261,
+            "tags": {
+                "internet_access": "wlan",
+                "name": "Tegal Suci Guest House",
+                "phone": "+6281338679111",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 7648826286,
+            "lat": -8.2502718,
+            "lon": 115.3987344,
+            "tags": {
+                "name": "Ampik Batur Homestay",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9555392317,
+            "lat": -8.2221038,
+            "lon": 115.3981606,
+            "tags": {
+                "name": "Pondok Bali Cottage",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 9769685089,
+            "lat": -8.2227355,
+            "lon": 115.3979713,
+            "tags": {
+                "name": "Bunbulan Panorama Villas",
+                "tourism": "guest_house"
+            }
+        },
+        {
+            "type": "node",
+            "id": 10983432080,
+            "lat": -8.2797767,
+            "lon": 115.3578322,
+            "tags": {
+                "addr:street": "Jalan Raya Penelokan",
+                "internet_access": "wlan",
+                "name": "Batur View Homestay",
+                "phone": "+62 812-3945-0022",
+                "tourism": "guest_house"
+            }
+        }
+    ]
+}

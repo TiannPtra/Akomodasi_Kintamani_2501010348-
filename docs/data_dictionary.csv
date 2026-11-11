@@ -1,0 +1,12 @@
+﻿nama_kolom,tipe_data,deskripsi,contoh,boleh_kosong
+osm_type,teks,"Jenis objek OSM: node, way, atau relation",way,Tidak
+osm_id,bilangan bulat,ID objek di OpenStreetMap,123456789,Tidak
+nama,teks,Nama akomodasi sesuai tag name,Hotel Batur Indah,"Ya, wajib dihitung jumlahnya"
+jenis,teks,"Nilai tag tourism (hotel, guest_house, dll)",hotel,Tidak
+lat,desimal,Koordinat lintang (WGS84),-8.27,Tidak
+lon,desimal,Koordinat bujur (WGS84),115.37,Tidak
+desa,teks,Desa sesuai tag addr:village,Kintamani,Ya
+bintang,teks,Klasifikasi bintang,3,Ya
+jumlah_kamar,teks,Jumlah kamar,20,Ya
+website,teks,Situs resmi akomodasi,https://...,Ya
+url_osm,teks,Tautan ke objek di openstreetmap.org,https://www.openstreetmap.org/way/...,Tidak
